@@ -1,0 +1,10 @@
+refrishCommands
+node_modules
+logs
+.env
+.vscode
+example.env
+guildCreate.js
+guildDelete.js
+database.json
+database.sqlite
